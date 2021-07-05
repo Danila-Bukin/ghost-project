@@ -1,1 +1,1 @@
-# ghost-project
+# Ресурс на Ghost.js
